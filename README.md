@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Software Engineering / Financial Engineering
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Still learning about JavaScript, NodeJS, React, Django
 - ✍️ &nbsp; I am interested in tech, markets, blockchain and cybersecurity.
 

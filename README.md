@@ -15,7 +15,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=60px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=55px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -25,29 +25,30 @@
 
 <td align="center" width="20%">
 <span><b><center>Bash</center></b></span> 
-<img height=60px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<img height=55px src="https://img.icons8.com/bubbles/2x/console.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>C</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/48/000000/c-programming.png"> 
+<img height=55px src="https://img.icons8.com/color/48/000000/c-programming.png"> 
 </td>
 
 
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
-<img height=60px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<img height=55px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
+<tr>
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 
-<tr>
+
 <td align="center" width="20%">
 <span><b><center>CSS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/48/000000/css3.png"> 
+<img height=55px src="https://img.icons8.com/color/48/000000/css3.png"> 
 </td>
 </tr>
 

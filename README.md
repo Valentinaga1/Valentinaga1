@@ -1,115 +1,47 @@
-<h2 align="center"> Hi, I'm Valentina  👋 <br/> </h2> 
-    <div style="display: inline-block;">
-        <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=valentinaga1&show_icons=true" class="responsive" />
-    </div>
-    <br/>
-    <div style="display: inline-block;">
-        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentinaga1&layout=compact&hide_border=true&count_private=true" class="responsive"/>
-    </div>
-</div>
-<br/>
-<div align="center">
-    <h1 align="center" style="font-size: 30px;">Kown:</h1> 
-<table>
-<tbody>
+<h2> Hey there! I'm Valentina.</h2>
 
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=55px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/python.png"> 
-</td>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Software Engineering / Financial Engineering
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Still learning about JavaScript, NodeJS, React, Django
+- ✍️ &nbsp; I am interested in tech, markets, blockchain and cybersecurity.
 
-<td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=55px src="https://img.icons8.com/bubbles/2x/console.png"> 
-</td>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-<td align="center" width="20%">
-<span><b><center>C</center></b></span> 
-<img height=55px src="https://img.icons8.com/color/48/000000/c-programming.png"> 
-</td>
-
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=55px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
-
-
-<td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
-<img height=55px src="https://img.icons8.com/color/48/000000/css3.png"> 
-</td>
-</tr>
-
-</tbody>
-</table>
-
-</div>
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-<div align="center">
-    <h1 align="center" style="font-size: 30px;">Learning:</h1> 
-		<br>
-<table>
-<tbody>
- <tr>
 
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valentinaga1&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentinaga1&theme=buefy&layout=compact" />
+</a>
 
-<td align="center" width="20%">
-<span><b><center>Django</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/django.png"> 
-</td>
+<br/>
 
-<td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=65px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
-
-
-<td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</td>
-
-
-</tr>
-
-</tbody>
-</table>
-
-</div>
-</br>
-</br>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <!-- Contact me -->
-<div align="center">
-    <h1 align="center">Contact me:</h1> 
-    <p align="center">
-        <!-- gmail-->
-        <a href="mailto:dm@sandovbarr.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="50px" alt="e-mail"></a> &nbsp; &nbsp;
-        <!-- github -->
-        <a href="https://github.com/sandovbarr"><img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" width="50px" alt="Github"></a> &nbsp; &nbsp;
-        <!-- linkedin -->
-        <a href="https://www.linkedin.com/in/jairo-sandoval/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
-        <!-- twitter -->
-        <a href="https://twitter.com/elhumanimal"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="50px" alt="Twitter"> </a> &nbsp; &nbsp;
-        <a href="https://www.instagram.com/elhumanimal"><img src="https://www.scouts.org.ar/wp-content/uploads/2019/05/logo-ig.png" width="50px" alt="Instagrma"></a> &nbsp; &nbsp;
-    </p>
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/valentinagomezagudelo/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Valentina%20Gomez%20Agudelo-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/vga_01/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vga_01-blue?style=flat-square&logo=instagram"></a>
+<a href="1881@holbertonschool.com"><img alt="Email" src="https://img.shields.io/badge/Email-1881@holbertonschool.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 <h3>Thanks for Stopping by!! 😊</h3>
 

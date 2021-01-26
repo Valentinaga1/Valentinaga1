@@ -78,9 +78,10 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>React</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
+
 
 <td align="center" width="20%">
 <span><b><center>NodeJS</center></b></span> 

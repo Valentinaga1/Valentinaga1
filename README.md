@@ -79,7 +79,7 @@
 
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+<img height=65px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
 </td>
 
 

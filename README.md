@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Software Engineering / Financial Engineering
-- 🌱 &nbsp; Still learning about JavaScript, NodeJS, React, Django
+- 🌱 &nbsp; Still learning about JavaScrip, React, Django
 - ✍️ &nbsp; I am interested in tech, markets, blockchain and cybersecurity.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

@@ -4,6 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Software Engineering / Financial Engineering
+- 👯 Looking to collaborate on learning new technologies.
 - 🌱 &nbsp; Still learning about JavaScrip, React, Django
 - ✍️ &nbsp; I am interested in tech, markets, blockchain and cybersecurity.
 
@@ -19,7 +20,6 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
